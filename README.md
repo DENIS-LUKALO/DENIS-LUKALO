@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DENIS-LUKALO
 - 👀 I’m interested in ...web development and IoT
-- 🌱 I’m currently learning ...Cyber security
+- 🌱 I’m currently learning ...Machine learning
 - 💞️ I’m looking to collaborate on ...web
 - 📫 How to reach me ...@DENIS-LUKALO 
 
